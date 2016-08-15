@@ -14,5 +14,10 @@ git status
 git add filename.js
 git commit -m "message"
 git push
+git pull
+git checkout -b branchName
+git checkout branchName
+
+
 
 */
